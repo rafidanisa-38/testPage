@@ -628,7 +628,7 @@ font-variation-settings:
 
 @media (max-width: 770px) {
     .portof {
-        height: 231vw;
+        height: 163vw;
     }
 
     .portof .portof-title {
@@ -688,7 +688,8 @@ font-variation-settings:
     }
 
     .scope-branding {
-        margin-right: 25%;
+        margin-right: 30%;
+        margin-bottom: 2%;
     }
 
     .location {
@@ -715,10 +716,6 @@ font-variation-settings:
 }
 
 @media (max-width: 370px) {
-    .portof {
-        height: 233vw;
-    }
-    
     .portof-content .sty-5 {
         width: 32%;
     }
@@ -807,7 +804,7 @@ font-variation-settings:
 
 @media (max-width: 770px) {
     .footer {
-        margin-top: 230vw;
+        margin-top: 161vw;
         height: 88vw;
     }
 
@@ -856,11 +853,5 @@ font-variation-settings:
     .footer .footer-decoration {
         width: 30%;
         margin-left: 67%;
-    }
-}
-
-@media (max-width: 370px) {
-    .footer {
-        margin-top: 232vw;
     }
 }
