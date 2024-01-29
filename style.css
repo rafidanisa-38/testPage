@@ -722,12 +722,26 @@ font-variation-settings:
 }
 
 @media (max-width: 340px) {
-    .portof-content .sty-2 {
-        width: 29%;
+    .portof-content .sty-5 {
+        width: 31.9%;
     }
+}
 
-    .portof-content .sty-3 {
-        width: 69%;
+@media (max-width: 305px) {
+    .portof-content .sty-5 {
+        width: 31.8%;
+    }
+}
+
+@media (max-width: 280px) {
+    .portof-content .sty-5 {
+        width: 31.7%;
+    }
+}
+
+@media (max-width: 255px) {
+    .portof-content .sty-5 {
+        width: 31.6%;
     }
 }
 
